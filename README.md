@@ -72,10 +72,6 @@ Make sure you have the necessary dependencies installed in your Python environme
 pip install scapy networkx matplotlib
 ```
 
-**9. License:**
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it according to your needs.
-
-**10. Acknowledgments:**
+**9. Acknowledgments:**
 
 Special thanks to the developers of Wireshark, Scapy, NetworkX, and Matplotlib for providing the tools necessary for network traffic analysis and visualization.
